@@ -14,7 +14,7 @@ C) Go to line 579 for setting the parameters <br />
 
 D) Output files:
 
-1) Mxi.txt save (t, np.sqrt((np.sum(M[0::3]))^2 + (np.sum(M[1::3]))^2), np.sum(M[2::3])) in defined instant of time (line 72) <br />
+1) Mxi.txt save (t, Transverse magnetization, Longitudinal magnetization) in defined instant of time (line 72) <br />
 
 2) Bdip.txt save dipolar field and magnetization at defiend time # caution consume a lot of space <br />
 row 7*i + 0 : time, t <br />
