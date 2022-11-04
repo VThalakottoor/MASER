@@ -7,7 +7,7 @@ Created: 12 November 2021 <br />
 Modified: 4 November 2022 <br />
 https://github.com/VThalakottoor/MASER.git <br />
 
-This program can solve Maxwell - Bloch - Provotorov, along with dipole-dipole interaction and Bo inkomogenety. <br />
+This program can solve Maxwell - Bloch - Provotorov, along with dipole-dipole interaction and Bo inhomogenety. <br />
 This is a beta program, its not that user friendly. <br />
 Go to line 579 for setting the parameters <br />
 output files:
