@@ -1,6 +1,6 @@
 # MASER
 # Program: BMP_simulation_04112022.py
-## Make two folder codes and data. Save this program in codes and run it. Output will be in folder data. <br />
+## Make two folder, codes and data. Save this program in codes and run it. Output will be in folder data. <br />
 
 Simulation: Maxwell - Bloch - Provotorov, Dipole Dipole Interaction and Bo Inhomogenety <br />
 Author: Vineeth Thalakottoor (vineethfrancis.physics@gmail.com) <br />
