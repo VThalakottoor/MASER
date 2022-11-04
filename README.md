@@ -1,5 +1,5 @@
 # MASER
-
+# Program: BMP_simulation_04112022.py
 
 Simulation: Maxwell - Bloch - Provotorov, Dipole Dipole Interaction and Bo Inhomogenety <br />
 Author: Vineeth Thalakottoor (vineethfrancis.physics@gmail.com) <br />
